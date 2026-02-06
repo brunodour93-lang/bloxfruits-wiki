@@ -58,22 +58,22 @@ export const fruits: TradeFruit[] = [
   {
     id: 'spirit',
     name: 'Spirit',
-    price: 3400000
+    price: 3400000,
     value: 10000000,
     image: '/spirit.png',
     rarity: 'Mythical',
     color: 'text-blue-200',
-    permValue: 2550
+
   },
   {
     id: 'venom',
-    price: 3000000
+    price: 3000000,
     name: 'Venom',
     value: 9000000,
     image: '/venom.png',
     rarity: 'Mythical',
     color: 'text-purple-500',
-    permValue: 2450
+
   },
   // --- LEGENDARY ---
   {
