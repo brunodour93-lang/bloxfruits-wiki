@@ -24,7 +24,7 @@ export const fruits: TradeFruit[] = [
     name: 'Dragon (West)',
     rarity: 'Mythical',
     price: 3500000,
-    value: 90000000,
+    value: 115000000,
     image: '/dragon.png',
     color: 'text-red-500'
   },
