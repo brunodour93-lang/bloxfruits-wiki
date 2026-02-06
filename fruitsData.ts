@@ -58,6 +58,7 @@ export const fruits: TradeFruit[] = [
   {
     id: 'spirit',
     name: 'Spirit',
+    price: 3400000
     value: 10000000,
     image: '/spirit.png',
     rarity: 'Mythical',
@@ -66,6 +67,7 @@ export const fruits: TradeFruit[] = [
   },
   {
     id: 'venom',
+    price: 3000000
     name: 'Venom',
     value: 9000000,
     image: '/venom.png',
